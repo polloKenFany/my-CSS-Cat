@@ -27,6 +27,17 @@ h3{
     font-size: 74px;
     font-family: arial;
 }
+#guiño{
+    display: none;
+    position: relative;
+    left: 98px;
+    top: 94px;
+    font-size: 74px;
+    font-family: arial;
+}
+#cara:hover{
+    display: none;
+}
 .orejitas {
     width: 0; 
     height: 0; 
