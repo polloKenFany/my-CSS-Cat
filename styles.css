@@ -26,3 +26,9 @@ h3{
     border-right: 50px solid transparent;
     border-bottom: 100px solid pink; 
 }
+#contenedorOrejitas {
+    display: flex;
+    position: relative;
+    top: 48px;
+    left: 50px;
+}
