@@ -19,6 +19,14 @@ h3{
   border-radius: 50%;
 /* Favor de admirar al gatis y continuar su labor como desarrolladorts */
 }
+#cara{
+    display: flex;
+    position: relative;
+    left: 98px;
+    top: 94px;
+    font-size: 74px;
+    font-family: arial;
+}
 .orejitas {
     width: 0; 
     height: 0; 
